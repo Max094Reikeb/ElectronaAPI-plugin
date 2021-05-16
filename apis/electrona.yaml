@@ -1,0 +1,20 @@
+---
+forge-1.16.5:
+  gradle: |
+    repositories {
+      maven {
+        name = "GitHubPackages"
+        url = "https://maven.pkg.github.com/max094reikeb/electrona-project"
+        credentials {
+          username = "max094reikeb"
+          password = "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"
+        }
+      }
+    }
+
+    dependencies {
+      implementation fg.deobf("net.reikeb:electrona:1.16.5-r2.1")
+    }
+  update_files:
+    - ~
+name: "Electrona"

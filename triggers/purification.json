@@ -1,0 +1,40 @@
+{
+  "dependencies_provided": [
+    {
+      "name": "world",
+      "type": "world"
+    },
+    {
+      "name": "x",
+      "type": "number"
+    },
+    {
+      "name": "y",
+      "type": "number"
+    },
+    {
+      "name": "z",
+      "type": "number"
+    },
+    {
+      "name": "input",
+      "type": "itemstack"
+    },
+    {
+      "name": "output",
+      "type": "itemstack"
+    },
+    {
+      "name": "purifyingTime",
+      "type": "number"
+    },
+    {
+      "name": "waterRequired",
+      "type": "number"
+    }
+  ],
+  "required_apis": [
+    "electrona"
+  ],
+  "cancelable": "true"
+}
