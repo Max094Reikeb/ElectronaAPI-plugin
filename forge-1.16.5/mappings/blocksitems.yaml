@@ -1,0 +1,141 @@
+_default:
+  - Blocks.AIR
+  - "air"
+BlockInit.BATTERY:
+  - net.reikeb.electrona.init.BlockInit.BATTERY.get()
+  - "battery"
+ItemInit.ADVANCED_TOTEM_OF_UNDYING:
+  - net.reikeb.electrona.init.ItemInit.ADVANCED_TOTEM_OF_UNDYING.get()
+  - "advanced_totem_of_undying"
+ItemInit.ANTI_RADIATION_HELMET:
+  - net.reikeb.electrona.init.ItemInit.ANTI_RADIATION_HELMET.get()
+  - "anti_radiation_helmet"
+ItemInit.ANTI_RADIATION_CHESTPLATE:
+  - net.reikeb.electrona.init.ItemInit.ANTI_RADIATION_CHESTPLATE.get()
+  - "anti_radiation_chestplate"
+ItemInit.ANTI_RADIATION_LEGGINGS:
+  - net.reikeb.electrona.init.ItemInit.ANTI_RADIATION_LEGGINGS.get()
+  - "anti_radiation_leggings"
+ItemInit.ANTI_RADIATION_BOOTS:
+  - net.reikeb.electrona.init.ItemInit.ANTI_RADIATION_BOOTS.get()
+  - "anti_radiation_boots"
+ItemInit.BIOMASS_CELL:
+  - net.reikeb.electrona.init.ItemInit.BIOMASS_CELL.get()
+  - "biomass_cell"
+ItemInit.CONCENTRATED_URANIUM:
+  - net.reikeb.electrona.init.ItemInit.CONCENTRATED_URANIUM.get()
+  - "concentrated_uranium"
+ItemInit.COSMIC_GEM:
+  - net.reikeb.electrona.init.ItemInit.COSMIC_GEM.get()
+  - "cosmic_gem"
+ItemInit.ELECTRONIC_CIRCUIT:
+  - net.reikeb.electrona.init.ItemInit.ELECTRONIC_CIRCUIT.get()
+  - "electronic_circuit"
+ItemInit.EMITTER:
+  - net.reikeb.electrona.init.ItemInit.EMITTER.get()
+  - "emitter"
+ItemInit.EMPTY_CELL:
+  - net.reikeb.electrona.init.ItemInit.EMPTY_CELL.get()
+  - "empty_cell"
+ItemInit.GEIGER_POINTER:
+  - net.reikeb.electrona.init.ItemInit.GEIGER_POINTER.get()
+  - "geiger_pointer"
+ItemInit.GOLD_POWDER:
+  - net.reikeb.electrona.init.ItemInit.GOLD_POWDER.get()
+  - "gold_powder"
+ItemInit.GRAVITONIUM:
+  - net.reikeb.electrona.init.ItemInit.GRAVITONIUM.get()
+  - "gravitonium"
+ItemInit.HAMMER:
+  - net.reikeb.electrona.init.ItemInit.HAMMER.get()
+  - "hammer"
+ItemInit.LAVA_CELL:
+  - net.reikeb.electrona.init.ItemInit.LAVA_CELL.get()
+  - "lava_cell"
+ItemInit.LEAD_HELMET:
+  - net.reikeb.electrona.init.ItemInit.LEAD_HELMET.get()
+  - "lead_helmet"
+ItemInit.LEAD_CHESTPLATE:
+  - net.reikeb.electrona.init.ItemInit.LEAD_CHESTPLATE.get()
+  - "lead_chestplate"
+ItemInit.LEAD_LEGGINGS:
+  - net.reikeb.electrona.init.ItemInit.LEAD_LEGGINGS.get()
+  - "lead_leggings"
+ItemInit.LEAD_BOOTS:
+  - net.reikeb.electrona.init.ItemInit.LEAD_BOOTS.get()
+  - "lead_boots"
+ItemInit.LEAD_INGOT:
+  - net.reikeb.electrona.init.ItemInit.LEAD_INGOT.get()
+  - "lead_ingot"
+ItemInit.MECHANIC_WINGS:
+  - net.reikeb.electrona.init.ItemInit.MECHANIC_WINGS.get()
+  - "mechanic_wings"
+ItemInit.MOTOR:
+  - net.reikeb.electrona.init.ItemInit.MOTOR.get()
+  - "motor"
+ItemInit.PADDLE:
+  - net.reikeb.electrona.init.ItemInit.PADDLE.get()
+  - "paddle"
+ItemInit.PORTABLE_BATTERY:
+  - net.reikeb.electrona.init.ItemInit.PORTABLE_BATTERY.get()
+  - "portable_battery"
+ItemInit.PORTABLE_TELEPORTER:
+  - net.reikeb.electrona.init.ItemInit.PORTABLE_TELEPORTER.get()
+  - "portable_teleporter"
+ItemInit.PUMP:
+  - net.reikeb.electrona.init.ItemInit.PUMP.get()
+  - "pump"
+ItemInit.PURIFIED_URANIUM:
+  - net.reikeb.electrona.init.ItemInit.PURIFIED_URANIUM.get()
+  - "purified_uranium"
+ItemInit.STEEL_AXE:
+  - net.reikeb.electrona.init.ItemInit.STEEL_AXE.get()
+  - "steel_axe"
+ItemInit.STEEL_HOE:
+  - net.reikeb.electrona.init.ItemInit.STEEL_HOE.get()
+  - "steel_hoe"
+ItemInit.STEEL_PICKAXE:
+  - net.reikeb.electrona.init.ItemInit.STEEL_PICKAXE.get()
+  - "steel_pickaxe"
+ItemInit.STEEL_SHOVEL:
+  - net.reikeb.electrona.init.ItemInit.STEEL_SHOVEL.get()
+  - "steel_shovel"
+ItemInit.STEEL_SWORD:
+  - net.reikeb.electrona.init.ItemInit.STEEL_SWORD.get()
+  - "steel_sword"
+ItemInit.STEEL_INGOT:
+  - net.reikeb.electrona.init.ItemInit.STEEL_INGOT.get()
+  - "steel_ingot"
+ItemInit.STEEL_PLATE:
+  - net.reikeb.electrona.init.ItemInit.STEEL_PLATE.get()
+  - "steel_plate"
+ItemInit.SUGAR_BOTTLE:
+  - net.reikeb.electrona.init.ItemInit.SUGAR_BOTTLE.get()
+  - "sugar_bottle"
+ItemInit.TELEPORT_SAVER:
+  - net.reikeb.electrona.init.ItemInit.TELEPORT_SAVER.get()
+  - "teleport_saver"
+ItemInit.TIN_INGOT:
+  - net.reikeb.electrona.init.ItemInit.TIN_INGOT.get()
+  - "tin_ingot"
+ItemInit.TIN_PLATE:
+  - net.reikeb.electrona.init.ItemInit.TIN_PLATE.get()
+  - "tin_plate"
+ItemInit.URANIUM_BAR:
+  - net.reikeb.electrona.init.ItemInit.URANIUM_BAR.get()
+  - "uranium_bar"
+ItemInit.URANIUM_DUAL_BAR:
+  - net.reikeb.electrona.init.ItemInit.URANIUM_DUAL_BAR.get()
+  - "uranium_dual_bar"
+ItemInit.URANIUM_QUAD_BAR:
+  - net.reikeb.electrona.init.ItemInit.URANIUM_QUAD_BAR.get()
+  - "uranium_quad_bar"
+ItemInit.WATER_CELL:
+  - net.reikeb.electrona.init.ItemInit.WATER_CELL.get()
+  - "water_cell"
+ItemInit.WIRELESS_BOOSTER:
+  - net.reikeb.electrona.init.ItemInit.WIRELESS_BOOSTER.get()
+  - "wireless_booster"
+ItemInit.YELLOWCAKE:
+  - net.reikeb.electrona.init.ItemInit.YELLOWCAKE.get()
+  - "yellowcake"

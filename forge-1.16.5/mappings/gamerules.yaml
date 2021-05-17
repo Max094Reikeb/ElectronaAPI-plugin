@@ -1,0 +1,3 @@
+_default: null
+DO_BLACK_HOLES_EXIST: net.reikeb.electrona.world.Gamerules.DO_BLACK_HOLES_EXIST
+DO_NUCLEAR_BOMBS_EXPLODE: net.reikeb.electrona.world.Gamerules.DO_NUCLEAR_BOMBS_EXPLODE

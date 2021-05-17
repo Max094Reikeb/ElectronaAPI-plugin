@@ -1,0 +1,229 @@
+- BlockInit.BATTERY:
+    readable_name: "Battery"
+    type: block
+    texture: BATTERY
+
+- ItemInit.ADVANCED_TOTEM_OF_UNDYING:
+  readable_name: "Advanced Totem of Undying"
+  type: item
+  texture: ADVANCED_TOTEM_OF_UNDYING
+
+- ItemInit.ANTI_RADIATION_HELMET:
+  readable_name: "Anti-Radiation Helmet"
+  type: item
+  texture: ANTI_RADIATION_HELMET
+
+- ItemInit.ANTI_RADIATION_CHESTPLATE:
+  readable_name: "Anti-Radiation Chestplate"
+  type: item
+  texture: ANTI_RADIATION_CHESTPLATE
+
+- ItemInit.ANTI_RADIATION_LEGGINGS:
+  readable_name: "Anti-Radiation Leggings"
+  type: item
+  texture: ANTI_RADIATION_LEGGINGS
+
+- ItemInit.ANTI_RADIATION_BOOTS:
+  readable_name: "Anti-Radiation Boots"
+  type: item
+  texture: ANTI_RADIATION_BOOTS
+
+- ItemInit.BIOMASS_CELL:
+  readable_name: "Biomass Cell"
+  type: item
+  texture: BIOMASS_CELL
+
+- ItemInit.CONCENTRATED_URANIUM:
+  readable_name: "Concentrated Uranium"
+  type: item
+  texture: CONCENTRATED_URANIUM
+
+- ItemInit.COSMIC_GEM:
+  readable_name: "Cosmic Gem"
+  type: item
+  texture: COSMIC_GEM
+
+- ItemInit.ELECTRONIC_CIRCUIT:
+  readable_name: "Electronic Circuit"
+  type: item
+  texture: ELECTRONIC_CIRCUIT
+
+- ItemInit.EMITTER:
+  readable_name: "Emitter"
+  type: item
+  texture: EMITTER
+
+- ItemInit.EMPTY_CELL:
+  readable_name: "Empty Cell"
+  type: item
+  texture: EMPTY_CELL
+
+- ItemInit.GEIGER_POINTER:
+  readable_name: "Geiger Pointer"
+  type: item
+  texture: GEIGER_POINTER
+
+- ItemInit.GOLD_POWDER:
+  readable_name: "Gold Powder"
+  type: item
+  texture: GOLD_POWDER
+
+- ItemInit.GRAVITONIUM:
+  readable_name: "Gravitonium"
+  type: item
+  texture: GRAVITONIUM
+
+- ItemInit.HAMMER:
+  readable_name: "Hammer"
+  type: item
+  texture: HAMMER
+
+- ItemInit.LAVA_CELL:
+  readable_name: "Lava Cell"
+  type: item
+  texture: LAVA_CELL
+
+- ItemInit.LEAD_HELMET:
+  readable_name: "Lead Helmet"
+  type: item
+  texture: LEAD_HELMET
+
+- ItemInit.LEAD_CHESTPLATE:
+  readable_name: "Lead Chestplate"
+  type: item
+  texture: LEAD_CHESTPLATE
+
+- ItemInit.LEAD_LEGGINGS:
+  readable_name: "Lead Leggings"
+  type: item
+  texture: LEAD_LEGGINGS
+
+- ItemInit.LEAD_BOOTS:
+  readable_name: "Lead Boots"
+  type: item
+  texture: LEAD_BOOTS
+
+- ItemInit.LEAD_INGOT:
+  readable_name: "Lead Ingot"
+  type: item
+  texture: LEAD_INGOT
+
+- ItemInit.MECHANIC_WINGS:
+  readable_name: "Mechanic Wings"
+  type: item
+  texture: MECHANIC_WINGS
+
+- ItemInit.MOTOR:
+  readable_name: "Motor"
+  type: item
+  texture: MOTOR
+
+- ItemInit.PADDLE:
+  readable_name: "Paddle"
+  type: item
+  texture: PADDLE
+
+- ItemInit.PORTABLE_BATTERY:
+  readable_name: "Portable Battery"
+  type: item
+  texture: PORTABLE_BATTERY
+
+- ItemInit.PORTABLE_TELEPORTER:
+  readable_name: "Portable Teleporter"
+  type: item
+  texture: PORTABLE_TELEPORTER
+
+- ItemInit.PUMP:
+  readable_name: "Pump"
+  type: item
+  texture: PUMP
+
+- ItemInit.PURIFIED_URANIUM:
+  readable_name: "Purified Uranium"
+  type: item
+  texture: PURIFIED_URANIUM
+
+- ItemInit.STEEL_AXE:
+  readable_name: "Steel Axe"
+  type: item
+  texture: STEEL_AXE
+
+- ItemInit.STEEL_HOE:
+  readable_name: "Steel Hoe"
+  type: item
+  texture: STEEL_HOE
+
+- ItemInit.STEEL_PICKAXE:
+  readable_name: "Steel Pickaxe"
+  type: item
+  texture: STEEL_PICKAXE
+
+- ItemInit.STEEL_SHOVEL:
+  readable_name: "Steel Shovel"
+  type: item
+  texture: STEEL_SHOVEL
+
+- ItemInit.STEEL_SWORD:
+  readable_name: "Steel Sword"
+  type: item
+  texture: STEEL_SWORD
+
+- ItemInit.STEEL_INGOT:
+  readable_name: "Steel Ingot"
+  type: item
+  texture: STEEL_INGOT
+
+- ItemInit.STEEL_PLATE:
+  readable_name: "Steel Plate"
+  type: item
+  texture: STEEL_PLATE
+
+- ItemInit.SUGAR_BOTTLE:
+  readable_name: "Sugar Bottle"
+  type: item
+  texture: SUGAR_BOTTLE
+
+- ItemInit.TELEPORT_SAVER:
+  readable_name: "Teleport Saver"
+  type: item
+  texture: TELEPORT_SAVER
+
+- ItemInit.TIN_INGOT:
+  readable_name: "Tin Ingot"
+  type: item
+  texture: TIN_INGOT
+
+- ItemInit.TIN_PLATE:
+  readable_name: "Tin Plate"
+  type: item
+  texture: TIN_PLATE
+
+- ItemInit.URANIUM_BAR:
+  readable_name: "Uranium Bar"
+  type: item
+  texture: URANIUM_BAR
+
+- ItemInit.URANIUM_DUAL_BAR:
+  readable_name: "Uranium Dual Bar"
+  type: item
+  texture: URANIUM_DUAL_BAR
+
+- ItemInit.URANIUM_QUAD_BAR:
+  readable_name: "Uranium Quad Bar"
+  type: item
+  texture: URANIUM_QUAD_BAR
+
+- ItemInit.WATER_CELL:
+  readable_name: "Water Cell"
+  type: item
+  texture: WATER_CELL
+
+- ItemInit.WIRELESS_BOOSTER:
+  readable_name: "Wireless Booster"
+  type: item
+  texture: WIRELESS_BOOSTER
+
+- ItemInit.YELLOWCAKE:
+  readable_name: "Yellowcake"
+  type: item
+  texture: YELLOWCAKE

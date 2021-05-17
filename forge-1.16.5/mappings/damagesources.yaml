@@ -1,0 +1,5 @@
+_default: GENERIC
+RADIOACTIVITY: net.reikeb.electrona.misc.DamageSources.RADIOACTIVITY
+NUCLEAR_BLAST: net.reikeb.electrona.misc.DamageSources.NUCLEAR_BLAST
+ELECTRIC_SHOCK: net.reikeb.electrona.misc.DamageSources.ELECTRIC_SHOCK
+ENERGETIC_LIGHTNING_BOLT: net.reikeb.electrona.misc.DamageSources.ENERGETIC_LIGHTNING_BOLT

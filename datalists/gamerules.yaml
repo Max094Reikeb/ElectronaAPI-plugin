@@ -1,0 +1,4 @@
+- DO_BLACK_HOLES_EXIST:
+  type: boolean
+- DO_NUCLEAR_BOMBS_EXPLODE:
+  type: boolean

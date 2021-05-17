@@ -1,0 +1,6 @@
+_default: ItemGroup.MISC
+No creative tab entry: null
+ELECTRONA_MACHINES: net.reikeb.electrona.setup.ItemGroups.ELECTRONA_MACHINES
+ELECTRONA_BLOCKS: net.reikeb.electrona.setup.ItemGroups.ELECTRONA_BLOCKS
+ELECTRONA_ITEMS: net.reikeb.electrona.setup.ItemGroups.ELECTRONA_ITEMS
+ELECTRONA_TOOLS: net.reikeb.electrona.setup.ItemGroups.ELECTRONA_TOOLS

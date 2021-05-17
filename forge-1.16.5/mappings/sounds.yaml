@@ -1,0 +1,7 @@
+_default: ""
+block.biomass_generator.active: block.biomass_generator.active
+block.compressor.compression_end: block.compressor.compression_end
+block.nuclear_generator_controller.alert: block.nuclear_generator_controller.alert
+block.purificator.purification: block.purificator.purification
+block.water_pump.pump: block.water_pump.pump
+common.nuclear_explosion: common.nuclear_explosion

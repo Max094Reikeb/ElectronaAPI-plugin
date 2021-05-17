@@ -1,0 +1,4 @@
+_default: ParticleTypes.CRIT
+DARK_MATTER: net.reikeb.electrona.init.ParticleInit.DARK_MATTER.get()
+GRAVITORIUM: net.reikeb.electrona.init.ParticleInit.GRAVITORIUM.get()
+RADIOACTIVE_FALLOUT: net.reikeb.electrona.init.ParticleInit.RADIOACTIVE_FALLOUT.get()
