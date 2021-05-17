@@ -1,7 +1,217 @@
 - BlockInit.BATTERY:
-    readable_name: "Battery"
-    type: block
-    texture: BATTERY
+  readable_name: "Battery"
+  type: block
+  texture: BATTERY
+
+- BlockInit.BIOMASS_GENERATOR:
+  readable_name: "Biomass Generator"
+  type: block
+  texture: BIOMASS_GENERATOR
+
+- BlockInit.BLUE_CABLE:
+  readable_name: "Blue Cable"
+  type: block
+  texture: BLUE_CABLE
+
+- BlockInit.CABLE:
+  readable_name: "Cable"
+  type: block
+  texture: CABLE
+
+- BlockInit.CHARDWOOD_LOG:
+  readable_name: "Chardwood Log"
+  type: block
+  texture: CHARDWOOD_LOG
+
+- BlockInit.COMPRESSED_OBSIDIAN:
+  readable_name: "Compressed Obsidian"
+  type: block
+  texture: COMPRESSED_OBSIDIAN
+
+- BlockInit.COMPRESSOR:
+  readable_name: "Compressor"
+  type: block
+  texture: COMPRESSOR
+
+- BlockInit.CONVEYOR:
+  readable_name: "Conveyor"
+  type: block
+  texture: CONVEYOR
+
+- BlockInit.COOLER:
+  readable_name: "Cooler"
+  type: block
+  texture: COOLER
+
+- BlockInit.CREATIVE_GENERATOR:
+  readable_name: "Creative Generator"
+  type: block
+  texture: CREATIVE_GENERATOR
+
+- BlockInit.DIMENSION_LINKER:
+  readable_name: "Dimension Linker"
+  type: block
+  texture: DIMENSION_LINKER
+
+- BlockInit.EL_CONVERTER:
+  readable_name: "EL Converter"
+  type: block
+  texture: EL_CONVERTER
+
+- BlockInit.ENERGETIC_LIGHTNING_ROD:
+  readable_name: "Energetic Lightning Rod"
+  type: block
+  texture: ENERGETIC_LIGHTNING_ROD
+
+- BlockInit.GRAVITONIUM_BLOCK:
+  readable_name: "Gravitonium Block"
+  type: block
+  texture: GRAVITONIUM_BLOCK
+
+- BlockInit.GRAVITONIUM_ORE:
+  readable_name: "Gravitonium Ore"
+  type: block
+  texture: GRAVITONIUM_ORE
+
+- BlockInit.GRAVITOR:
+  readable_name: "Gravitor"
+  type: block
+  texture: GRAVITOR
+
+- BlockInit.HEAT_GENERATOR:
+  readable_name: "Heat Generator"
+  type: block
+  texture: HEAT_GENERATOR
+
+- BlockInit.LEAD_BLOCK:
+  readable_name: "Lead Block"
+  type: block
+  texture: LEAD_BLOCK
+
+- BlockInit.LEAD_CRATE:
+  readable_name: "Lead Crate"
+  type: block
+  texture: LEAD_CRATE
+
+- BlockInit.LEAD_DOOR:
+  readable_name: "Lead Door"
+  type: block
+  texture: LEAD_DOOR
+
+- BlockInit.LEAD_ORE:
+  readable_name: "Lead Ore"
+  type: block
+  texture: LEAD_ORE
+
+- BlockInit.MACHINE_CASING:
+  readable_name: "Machine Casing"
+  type: block
+  texture: MACHINE_CASING
+
+- BlockInit.MINING_MACHINE:
+  readable_name: "Mining Machine"
+  type: block
+  texture: MINING_MACHINE
+
+- BlockInit.NUCLEAR_BOMB:
+  readable_name: "Nuclear Bomb"
+  type: block
+  texture: NUCLEAR_BOMB
+
+- BlockInit.NUCLEAR_GENERATOR_CONTROLLER:
+  readable_name: "Nuclear Generator Controller"
+  type: block
+  texture: NUCLEAR_GENERATOR_CONTROLLER
+
+- BlockInit.PURIFICATOR:
+  readable_name: "Purificator"
+  type: block
+  texture: PURIFICATOR
+
+- BlockInit.RADIOACTIVE_DIRT:
+  readable_name: "Radioactive Dirt"
+  type: block
+  texture: RADIOACTIVE_DIRT
+
+- BlockInit.RADIOACTIVE_GRASS:
+  readable_name: "Radioactive Grass"
+  type: block
+  texture: RADIOACTIVE_GRASS
+
+- BlockInit.RADIOACTIVE_TALL_GRASS:
+  readable_name: "Radioactive Tall Grass"
+  type: block
+  texture: RADIOACTIVE_TALL_GRASS
+
+- BlockInit.SINGULARITY:
+  readable_name: "Singularity"
+  type: block
+  texture: SINGULARITY
+
+- BlockInit.SOLAR_PANEL_T_1:
+  readable_name: "Solar Panel of Tiers 1"
+  type: block
+  texture: SOLAR_PANEL
+
+- BlockInit.SOLAR_PANEL_T_2:
+  readable_name: "Solar Panel of Tiers 2"
+  type: block
+  texture: SOLAR_PANEL
+
+- BlockInit.SPRAYER:
+  readable_name: "Sprayer"
+  type: block
+  texture: SPRAYER
+
+- BlockInit.STEEL_BLOCK:
+  readable_name: "Steel Block"
+  type: block
+  texture: STEEL_BLOCK
+
+- BlockInit.STEEL_CRATE:
+  readable_name: "Steel Crate"
+  type: block
+  texture: STEEL_CRATE
+
+- BlockInit.TELEPORTER:
+  readable_name: "Teleporter"
+  type: block
+  texture: TELEPORTER
+
+- BlockInit.TIN_BLOCK:
+  readable_name: "Tin Block"
+  type: block
+  texture: TIN_BLOCK
+
+- BlockInit.TIN_ORE:
+  readable_name: "Tin Ore"
+  type: block
+  texture: TIN_ORE
+
+- BlockInit.URANIUM_ORE:
+  readable_name: "Uranium Ore"
+  type: block
+  texture: URANIUM_ORE
+
+- BlockInit.WATER_CABLE:
+  readable_name: "Water Cable"
+  type: block
+  texture: WATER_CABLE
+
+- BlockInit.WATER_PUMP:
+  readable_name: "Water Pump"
+  type: block
+  texture: WATER_PUMP
+
+- BlockInit.WATER_TURBINE:
+  readable_name: "Water Turbine"
+  type: block
+  texture: WATER_TURBINE
+
+- BlockInit.XP_GENERATOR:
+  readable_name: "XP Generator"
+  type: block
+  texture: XP_GENERATOR
 
 - ItemInit.ADVANCED_TOTEM_OF_UNDYING:
   readable_name: "Advanced Totem of Undying"
@@ -142,6 +352,11 @@
   readable_name: "Purified Uranium"
   type: item
   texture: PURIFIED_URANIUM
+
+- ItemInit.RADIOACTIVE_ZOMBIE_SPAWN_EGG:
+  readable_name: "Radioactive Zombie Spawn Egg"
+  type: item
+  texture: RADIOACTIVE_ZOMBIE_SPAWN_EGG
 
 - ItemInit.STEEL_AXE:
   readable_name: "Steel Axe"

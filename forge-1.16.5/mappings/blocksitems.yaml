@@ -4,6 +4,132 @@ _default:
 BlockInit.BATTERY:
   - net.reikeb.electrona.init.BlockInit.BATTERY.get()
   - "battery"
+BlockInit.BIOMASS_GENERATOR:
+  - net.reikeb.electrona.init.BlockInit.BIOMASS_GENERATOR.get()
+  - "biomass_generator"
+BlockInit.BLUE_CABLE:
+  - net.reikeb.electrona.init.BlockInit.BLUE_CABLE.get()
+  - "blue_cable"
+BlockInit.CABLE:
+  - net.reikeb.electrona.init.BlockInit.CABLE.get()
+  - "cable"
+BlockInit.CHARDWOOD_LOG:
+  - net.reikeb.electrona.init.BlockInit.CHARDWOOD_LOG.get()
+  - "chardwood_log"
+BlockInit.COMPRESSED_OBSIDIAN:
+  - net.reikeb.electrona.init.BlockInit.COMPRESSED_OBSIDIAN.get()
+  - "compressed_obsidian"
+BlockInit.COMPRESSOR:
+  - net.reikeb.electrona.init.BlockInit.COMPRESSOR.get()
+  - "compressor"
+BlockInit.CONVEYOR:
+  - net.reikeb.electrona.init.BlockInit.CONVEYOR.get()
+  - "conveyor"
+BlockInit.COOLER:
+  - net.reikeb.electrona.init.BlockInit.COOLER.get()
+  - "cooler"
+BlockInit.CREATIVE_GENERATOR:
+  - net.reikeb.electrona.init.BlockInit.CREATIVE_GENERATOR.get()
+  - "creative_generator"
+BlockInit.DIMENSION_LINKER:
+  - net.reikeb.electrona.init.BlockInit.DIMENSION_LINKER.get()
+  - "dimension_linker"
+BlockInit.EL_CONVERTER:
+  - net.reikeb.electrona.init.BlockInit.EL_CONVERTER.get()
+  - "el_converter"
+BlockInit.ENERGETIC_LIGHTNING_ROD:
+  - net.reikeb.electrona.init.BlockInit.ENERGETIC_LIGHTNING_ROD.get()
+  - "energetic_lightning_rod"
+BlockInit.GRAVITONIUM_BLOCK:
+  - net.reikeb.electrona.init.BlockInit.GRAVITONIUM_BLOCK.get()
+  - "gravitonium_block"
+BlockInit.GRAVITONIUM_ORE:
+  - net.reikeb.electrona.init.BlockInit.GRAVITONIUM_ORE.get()
+  - "gravitonium_ore"
+BlockInit.GRAVITOR:
+  - net.reikeb.electrona.init.BlockInit.GRAVITOR.get()
+  - "gravitor"
+BlockInit.HEAT_GENERATOR:
+  - net.reikeb.electrona.init.BlockInit.HEAT_GENERATOR.get()
+  - "heat_generator"
+BlockInit.LEAD_BLOCK:
+  - net.reikeb.electrona.init.BlockInit.LEAD_BLOCK.get()
+  - "lead_block"
+BlockInit.LEAD_CRATE:
+  - net.reikeb.electrona.init.BlockInit.LEAD_CRATE.get()
+  - "lead_crate"
+BlockInit.LEAD_DOOR:
+  - net.reikeb.electrona.init.BlockInit.LEAD_DOOR.get()
+  - "lead_door"
+BlockInit.LEAD_ORE:
+  - net.reikeb.electrona.init.BlockInit.LEAD_ORE.get()
+  - "lead_ore"
+BlockInit.MACHINE_CASING:
+  - net.reikeb.electrona.init.BlockInit.MACHINE_CASING.get()
+  - "machine_casing"
+BlockInit.MINING_MACHINE:
+  - net.reikeb.electrona.init.BlockInit.MINING_MACHINE.get()
+  - "mining_machine"
+BlockInit.NUCLEAR_BOMB:
+  - net.reikeb.electrona.init.BlockInit.NUCLEAR_BOMB.get()
+  - "nuclear_bomb"
+BlockInit.NUCLEAR_GENERATOR_CONTROLLER:
+  - net.reikeb.electrona.init.BlockInit.NUCLEAR_GENERATOR_CONTROLLER.get()
+  - "nuclear_generator_controller"
+BlockInit.PURIFICATOR:
+  - net.reikeb.electrona.init.BlockInit.PURIFICATOR.get()
+  - "purificator"
+BlockInit.RADIOACTIVE_DIRT:
+  - net.reikeb.electrona.init.BlockInit.RADIOACTIVE_DIRT.get()
+  - "radioactive_dirt"
+BlockInit.RADIOACTIVE_GRASS:
+  - net.reikeb.electrona.init.BlockInit.RADIOACTIVE_GRASS.get()
+  - "radioactive_grass"
+BlockInit.RADIOACTIVE_TALL_GRASS:
+  - net.reikeb.electrona.init.BlockInit.RADIOACTIVE_TALL_GRASS.get()
+  - "radioactive_tall_grass"
+BlockInit.SINGULARITY:
+  - net.reikeb.electrona.init.BlockInit.SINGULARITY.get()
+  - "singularity"
+BlockInit.SOLAR_PANEL_T_1:
+  - net.reikeb.electrona.init.BlockInit.SOLAR_PANEL_T_1.get()
+  - "solar_panel_tiers1"
+BlockInit.SOLAR_PANEL_T_2:
+  - net.reikeb.electrona.init.BlockInit.SOLAR_PANEL_T_2.get()
+  - "solar_panel_tiers2"
+BlockInit.SPRAYER:
+  - net.reikeb.electrona.init.BlockInit.SPRAYER.get()
+  - "sprayer"
+BlockInit.STEEL_BLOCK:
+  - net.reikeb.electrona.init.BlockInit.STEEL_BLOCK.get()
+  - "steel_block"
+BlockInit.STEEL_CRATE:
+  - net.reikeb.electrona.init.BlockInit.STEEL_CRATE.get()
+  - "steel_crate"
+BlockInit.TELEPORTER:
+  - net.reikeb.electrona.init.BlockInit.TELEPORTER.get()
+  - "teleporter"
+BlockInit.TIN_BLOCK:
+  - net.reikeb.electrona.init.BlockInit.TIN_BLOCK.get()
+  - "tin_block"
+BlockInit.TIN_ORE:
+  - net.reikeb.electrona.init.BlockInit.TIN_ORE.get()
+  - "tin_ore"
+BlockInit.URANIUM_ORE:
+  - net.reikeb.electrona.init.BlockInit.URANIUM_ORE.get()
+  - "uranium_ore"
+BlockInit.WATER_CABLE:
+  - net.reikeb.electrona.init.BlockInit.WATER_CABLE.get()
+  - "water_cable"
+BlockInit.WATER_PUMP:
+  - net.reikeb.electrona.init.BlockInit.WATER_PUMP.get()
+  - "water_pump"
+BlockInit.WATER_TURBINE:
+  - net.reikeb.electrona.init.BlockInit.WATER_TURBINE.get()
+  - "water_turbine"
+BlockInit.XP_GENERATOR:
+  - net.reikeb.electrona.init.BlockInit.XP_GENERATOR.get()
+  - "xp_generator"
 ItemInit.ADVANCED_TOTEM_OF_UNDYING:
   - net.reikeb.electrona.init.ItemInit.ADVANCED_TOTEM_OF_UNDYING.get()
   - "advanced_totem_of_undying"
@@ -88,6 +214,9 @@ ItemInit.PUMP:
 ItemInit.PURIFIED_URANIUM:
   - net.reikeb.electrona.init.ItemInit.PURIFIED_URANIUM.get()
   - "purified_uranium"
+ItemInit.RADIOACTIVE_ZOMBIE_SPAWN_EGG:
+  - net.reikeb.electrona.init.ItemInit.RADIOACTIVE_ZOMBIE_SPAWN_EGG.get()
+  - "radioactive_zombie_spawn_egg"
 ItemInit.STEEL_AXE:
   - net.reikeb.electrona.init.ItemInit.STEEL_AXE.get()
   - "steel_axe"
