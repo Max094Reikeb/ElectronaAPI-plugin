@@ -283,6 +283,11 @@
   type: item
   texture: GRAVITONIUM
 
+- ItemInit.GRAVITY_DEVICE:
+  readable_name: "Gravity Device"
+  type: item
+  texture: GRAVITY_DEVICE
+
 - ItemInit.HAMMER:
   readable_name: "Hammer"
   type: item

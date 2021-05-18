@@ -172,6 +172,9 @@ ItemInit.GOLD_POWDER:
 ItemInit.GRAVITONIUM:
   - net.reikeb.electrona.init.ItemInit.GRAVITONIUM.get()
   - "gravitonium"
+ItemInit.GRAVITY_DEVICE:
+  - net.reikeb.electrona.init.ItemInit.GRAVITY_DEVICE.get()
+  - "gravity_device"
 ItemInit.HAMMER:
   - net.reikeb.electrona.init.ItemInit.HAMMER.get()
   - "hammer"
