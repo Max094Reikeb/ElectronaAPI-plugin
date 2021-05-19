@@ -7,13 +7,13 @@ forge-1.16.5:
         url = "https://maven.pkg.github.com/max094reikeb/electrona-project"
         credentials {
           username = "max094reikeb"
-          password = "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"
+          password = "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"
         }
       }
     }
 
     dependencies {
-      implementation fg.deobf("net.reikeb:electrona:1.16.5-r2.1")
+      implementation fg.deobf("net.reikeb:electrona:1.16.5-2.1-SNAPSHOT2")
     }
   update_files:
     - ~
