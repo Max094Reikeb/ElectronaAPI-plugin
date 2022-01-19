@@ -1,1 +1,0 @@
-net.reikeb.electrona.utils.ElectronaUtils.Gravity.isGravityAffected((World) world, new BlockPos((int)${input$x},(int)${input$y},(int)${input$z}))

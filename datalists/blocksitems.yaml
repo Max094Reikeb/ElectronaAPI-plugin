@@ -268,15 +268,15 @@
   type: item
   texture: EMPTY_CELL
 
+- ItemInit.ENERGY_ANALYZER:
+  readable_name: "Energy Analyzer"
+  type: item
+  texture: ENERGY_ANALYZER
+
 - ItemInit.GEIGER_POINTER:
   readable_name: "Geiger Pointer"
   type: item
   texture: GEIGER_POINTER
-
-- ItemInit.GOLD_POWDER:
-  readable_name: "Gold Powder"
-  type: item
-  texture: GOLD_POWDER
 
 - ItemInit.GRAVITONIUM:
   readable_name: "Gravitonium"
@@ -362,6 +362,16 @@
   readable_name: "Radioactive Zombie Spawn Egg"
   type: item
   texture: RADIOACTIVE_ZOMBIE_SPAWN_EGG
+
+- ItemInit.RAW_LEAD:
+  readable_name: "Raw Lead"
+  type: item
+  texture: RAW_LEAD
+
+- ItemInit.RAW_TIN:
+  readable_name: "Raw Tin"
+  type: item
+  texture: RAW_TIN
 
 - ItemInit.STEEL_AXE:
   readable_name: "Steel Axe"

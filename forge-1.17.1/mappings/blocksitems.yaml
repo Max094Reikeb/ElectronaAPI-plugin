@@ -163,12 +163,12 @@ ItemInit.EMITTER:
 ItemInit.EMPTY_CELL:
   - net.reikeb.electrona.init.ItemInit.EMPTY_CELL.get()
   - "empty_cell"
+ItemInit.ENERGY_ANALYZER:
+  - net.reikeb.electrona.init.ItemInit.ENERGY_ANALYZER.get()
+  - "energy_analyzer"
 ItemInit.GEIGER_POINTER:
   - net.reikeb.electrona.init.ItemInit.GEIGER_POINTER.get()
   - "geiger_pointer"
-ItemInit.GOLD_POWDER:
-  - net.reikeb.electrona.init.ItemInit.GOLD_POWDER.get()
-  - "gold_powder"
 ItemInit.GRAVITONIUM:
   - net.reikeb.electrona.init.ItemInit.GRAVITONIUM.get()
   - "gravitonium"
@@ -220,6 +220,12 @@ ItemInit.PURIFIED_URANIUM:
 ItemInit.RADIOACTIVE_ZOMBIE_SPAWN_EGG:
   - net.reikeb.electrona.init.ItemInit.RADIOACTIVE_ZOMBIE_SPAWN_EGG.get()
   - "radioactive_zombie_spawn_egg"
+ItemInit.RAW_LEAD:
+  - net.reikeb.electrona.init.ItemInit.RAW_LEAD.get()
+  - "raw_lead"
+ItemInit.RAW_TIN:
+  - net.reikeb.electrona.init.ItemInit.RAW_TIN.get()
+  - "raw_tin"
 ItemInit.STEEL_AXE:
   - net.reikeb.electrona.init.ItemInit.STEEL_AXE.get()
   - "steel_axe"

@@ -1,1 +1,0 @@
-net.reikeb.electrona.utils.ElectronaUtils.Biome.setBiomeAtPos((World) world, new BlockPos((int)${input$x},(int)${input$y},(int)${input$z}), new ResourceLocation("${generator.map(field$biome, "biomes")}"));
