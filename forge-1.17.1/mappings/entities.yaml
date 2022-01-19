@@ -1,12 +1,12 @@
 _default:
-  - ZombieEntity
-  - ZOMBIE
+  - Zombie
+  - EntityType.ZOMBIE
   - zombie
-EnergeticLightningBolt:
-  - net.reikeb.electrona.entity.EnergeticLightningBolt
-  - net.reikeb.electrona.init.EntityInit.ENERGETIC_LIGHTNING_BOLT.get()
+Energetic Lightning Bolt:
+  - EnergeticLightningBolt
+  - EntityInit.ENERGETIC_LIGHTNING_BOLT.get()
   - energetic_lightning_bolt
-RadioactiveZombie:
-  - net.reikeb.electrona.entity.RadioactiveZombie
-  - net.reikeb.electrona.init.EntityInit.RADIOACTIVE_ZOMBIE.get()
+Radioactive Zombie:
+  - RadioactiveZombie
+  - EntityInit.RADIOACTIVE_ZOMBIE.get()
   - radioactive_zombie

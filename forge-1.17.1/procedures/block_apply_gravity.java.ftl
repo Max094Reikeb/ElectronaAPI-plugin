@@ -1,1 +1,1 @@
-net.reikeb.electrona.utils.Gravity.applyGravity((World) world, new BlockPos((int)${input$x},(int)${input$y},(int)${input$z}));
+Gravity.applyGravity((Level) world, new BlockPos((int)${input$x},(int)${input$y},(int)${input$z}));

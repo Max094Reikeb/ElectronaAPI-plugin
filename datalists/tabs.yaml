@@ -3,6 +3,6 @@
 - ELECTRONA_BLOCKS:
   texture: TIN_ORE
 - ELECTRONA_ITEMS:
-  texture: PORTABLE_BATTERY
+  texture: portable_battery
 - ELECTRONA_TOOLS:
-  texture: HAMMER
+  texture: hammer

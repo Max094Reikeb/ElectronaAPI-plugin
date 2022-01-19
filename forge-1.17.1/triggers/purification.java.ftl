@@ -1,4 +1,4 @@
-@SubscribeEvent public void onPurification(net.reikeb.electrona.events.local.PurificationEvent event) {
+@SubscribeEvent public void onPurification(PurificationEvent event) {
 	Map<String, Object> dependencies = new HashMap<>();
 	dependencies.put("world", event.getWorld());
 	dependencies.put("x", event.getPos().getX());

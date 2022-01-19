@@ -1,4 +1,4 @@
-@SubscribeEvent public void onExplode(net.reikeb.electrona.events.local.NuclearExplosionEvent.Detonate event) {
+@SubscribeEvent public void onExplode(NuclearExplosionEvent.Detonate event) {
 	NuclearExplosion nuclearExplosion = event.getNuclearExplosion();
 	Map<String, Object> dependencies = new HashMap<>();
 	dependencies.put("x", nuclearExplosion.getPosition().x);

@@ -1,4 +1,4 @@
-@SubscribeEvent public void onEntityStruckByEnergeticLightning(net.reikeb.electrona.events.local.EntityStruckByEnergeticLightningEvent event) {
+@SubscribeEvent public void onEntityStruckByEnergeticLightning(EntityStruckByEnergeticLightningEvent event) {
 	Map<String, Object> dependencies = new HashMap<>();
 	dependencies.put("x", event.getEntity().getPosX());
 	dependencies.put("y", event.getEntity().getPosY());

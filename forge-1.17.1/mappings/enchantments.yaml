@@ -1,5 +1,5 @@
 _default: Enchantments.EFFICIENCY
-LUMBERJACK: net.reikeb.electrona.init.EnchantmentInit.LUMBERJACK.get()
-VEINMINER: net.reikeb.electrona.init.EnchantmentInit.VEINMINER.get()
-THUNDERING: net.reikeb.electrona.init.EnchantmentInit.THUNDERING.get()
-SMELTING: net.reikeb.electrona.init.EnchantmentInit.SMELTING.get()
+LUMBERJACK: EnchantmentInit.LUMBERJACK.get()
+VEINMINER: EnchantmentInit.VEINMINER.get()
+THUNDERING: EnchantmentInit.THUNDERING.get()
+SMELTING: EnchantmentInit.SMELTING.get()

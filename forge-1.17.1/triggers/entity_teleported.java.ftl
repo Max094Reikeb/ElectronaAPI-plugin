@@ -1,4 +1,4 @@
-@SubscribeEvent public void aboutTeleport(net.reikeb.electrona.events.local.TeleporterUseEvent.Post event) {
+@SubscribeEvent public void aboutTeleport(TeleporterUseEvent.Post event) {
 	Map<String, Object> dependencies = new HashMap<>();
 	dependencies.put("world", event.getWorld());
 	dependencies.put("world", event.getDestinationWorld());

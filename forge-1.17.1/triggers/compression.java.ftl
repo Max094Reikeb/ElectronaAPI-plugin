@@ -1,4 +1,4 @@
-@SubscribeEvent public void onCompression(net.reikeb.electrona.events.local.CompressionEvent event) {
+@SubscribeEvent public void onCompression(CompressionEvent event) {
 	Map<String, Object> dependencies = new HashMap<>();
 	dependencies.put("world", event.getWorld());
 	dependencies.put("x", event.getPos().getX());
