@@ -3,7 +3,7 @@
   "minversion": 20210353117,
   "info": {
     "name": "Electrona API",
-    "version": "1.2",
+    "version": "2.0",
     "description": "Adds Electrona API for MCreator 2021.3 and above. With it comes triggers and procedure blocks.",
     "author": "Max094_Reikeb"
   }
