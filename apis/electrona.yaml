@@ -1,0 +1,14 @@
+---
+forge-1.18.2:
+  gradle: |
+    repositories {
+      maven { url 'https://jitpack.io' }
+    }
+
+    dependencies {
+      implementation fg.deobf('com.github.Max094Reikeb:MaxiLib:r1.0')
+      implementation fg.deobf('com.github.Max094Reikeb:Electrona-Project:r3.0')
+    }
+  update_files:
+    - ~
+name: "Electrona"

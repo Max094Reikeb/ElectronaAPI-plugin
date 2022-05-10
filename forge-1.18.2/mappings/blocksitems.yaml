@@ -64,6 +64,9 @@ BlockInit.LEAD_DOOR:
 BlockInit.LEAD_ORE:
   - BlockInit.LEAD_ORE.get()
   - "lead_ore"
+BlockInit.DEEPSLATE_LEAD_ORE:
+  - BlockInit.DEEPSLATE_LEAD_ORE.get()
+  - "deepslate_lead_ore"
 BlockInit.MACHINE_CASING:
   - BlockInit.MACHINE_CASING.get()
   - "machine_casing"
@@ -115,9 +118,15 @@ BlockInit.TIN_BLOCK:
 BlockInit.TIN_ORE:
   - BlockInit.TIN_ORE.get()
   - "tin_ore"
+BlockInit.DEEPSLATE_TIN_ORE:
+  - BlockInit.DEEPSLATE_TIN_ORE.get()
+  - "deepslate_tin_ore"
 BlockInit.URANIUM_ORE:
   - BlockInit.URANIUM_ORE.get()
   - "uranium_ore"
+BlockInit.DEEPSLATE_URANIUM_ORE:
+  - BlockInit.DEEPSLATE_URANIUM_ORE.get()
+  - "deepslate_uranium_ore"
 BlockInit.WATER_CABLE:
   - BlockInit.WATER_CABLE.get()
   - "water_cable"

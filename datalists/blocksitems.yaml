@@ -103,6 +103,11 @@
   type: block
   texture: LEAD_ORE
 
+- BlockInit.DEEPSLATE_LEAD_ORE:
+  readable_name: "Deepslate Lead Ore"
+  type: block
+  texture: DEEPSLATE_LEAD_ORE
+
 - BlockInit.MACHINE_CASING:
   readable_name: "Machine Casing"
   type: block
@@ -188,10 +193,20 @@
   type: block
   texture: TIN_ORE
 
+- BlockInit.DEEPSLATE_TIN_ORE:
+  readable_name: "Deepslate Tin Ore"
+  type: block
+  texture: DEEPSLATE_TIN_ORE
+
 - BlockInit.URANIUM_ORE:
   readable_name: "Uranium Ore"
   type: block
   texture: URANIUM_ORE
+
+- BlockInit.DEEPSLATE_URANIUM_ORE:
+  readable_name: "Deepslate Uranium Ore"
+  type: block
+  texture: DEEPSLATE_URANIUM_ORE
 
 - BlockInit.WATER_CABLE:
   readable_name: "Water Cable"

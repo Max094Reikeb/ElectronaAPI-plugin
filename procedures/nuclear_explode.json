@@ -2,6 +2,11 @@
   "args0": [
     {
       "type": "input_value",
+      "name": "power",
+      "check": "Number"
+    },
+    {
+      "type": "input_value",
       "name": "x",
       "check": "Number"
     },
@@ -16,9 +21,22 @@
       "check": "Number"
     },
     {
-      "type": "input_value",
-      "name": "power",
-      "check": "Number"
+      "type": "field_dropdown",
+      "name": "mode",
+      "options": [
+        [
+          "BREAK",
+          "BREAK"
+        ],
+        [
+          "DESTROY",
+          "DESTROY"
+        ],
+        [
+          "NONE",
+          "NONE"
+        ]
+      ]
     }
   ],
   "inputsInline": true,
@@ -28,16 +46,19 @@
   "mcreator": {
     "toolbox_id": "electrona",
     "toolbox_init": [
+      "<value name=\"power\"><block type=\"math_number\"><field name=\"NUM\">4</field></block></value>",
       "<value name=\"x\"><block type=\"coord_x\"></block></value>",
       "<value name=\"y\"><block type=\"coord_y\"></block></value>",
-      "<value name=\"z\"><block type=\"coord_z\"></block></value>",
-      "<value name=\"power\"><block type=\"math_number\"><field name=\"NUM\">4</field></block></value>"
+      "<value name=\"z\"><block type=\"coord_z\"></block></value>"
     ],
     "inputs": [
       "x",
       "y",
       "z",
       "power"
+    ],
+    "fields": [
+      "mode"
     ],
     "required_apis":[
       "electrona"
