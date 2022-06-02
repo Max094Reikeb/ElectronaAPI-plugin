@@ -6,7 +6,7 @@ forge-1.18.2:
     }
 
     dependencies {
-      implementation fg.deobf('com.github.Max094Reikeb:MaxiLib:r1.0')
+      implementation fg.deobf('com.github.Max094Reikeb:MaxiLib:1.18.2-r1.1.1')
       implementation fg.deobf('com.github.Max094Reikeb:Electrona-Project:r3.0')
     }
   update_files:
